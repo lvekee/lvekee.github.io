@@ -6,5 +6,5 @@
 
 
 
-[GitHub](https://github.com/docsifyjs/docsify/) [Get Started](#lvekee)
+[GitHub](https://github.com/docsifyjs/docsify/) [Get Started](#lvekee39s-blog)
 

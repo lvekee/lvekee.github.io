@@ -4,7 +4,7 @@
 
 #### 基本类型
 
-![基本数据类型](image/基本数据类型.png)
+![基本数据类型](image/基本数据类型.png ':size=50%')
 
 > boolean 只有两个值：true、false，可以使用 1 bit 来存储，但是具体大小没有明确规定。JVM 会在编译时期将 boolean 类型的数据转换为 int，使用 1 来表示 true，0 表示 false。JVM 支持 boolean 数组，但是是通过读写 byte 数组来实现的。
 
